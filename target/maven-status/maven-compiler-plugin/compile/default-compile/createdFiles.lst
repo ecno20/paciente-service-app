@@ -1,0 +1,8 @@
+veterinaria/tienda/vet/pacienteservice/repository/PacienteRepository.class
+veterinaria/tienda/vet/pacienteservice/PacienteServiceApplication.class
+veterinaria/tienda/vet/pacienteservice/service/PacienteServiceImpl.class
+veterinaria/tienda/vet/pacienteservice/service/PacienteService.class
+veterinaria/tienda/vet/pacienteservice/domain/Paciente.class
+veterinaria/tienda/vet/pacienteservice/api/PacienteApi.class
+veterinaria/tienda/vet/pacienteservice/api/PacienteController.class
+veterinaria/tienda/vet/pacienteservice/config/OpenApiConfig.class
